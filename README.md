@@ -1,2 +1,2 @@
 # hello-world
-trial
+see how it works
